@@ -1,2 +1,2 @@
 # aulas-curso-Udemy
-Aulas praticadas do curso da Udemy.
+Aulas praticas do curso da Udemy.
